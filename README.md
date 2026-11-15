@@ -1,10 +1,11 @@
-# Talha Asif
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img alt="Talha Asif — Software Engineer · AI Engineering" src="./assets/header-light.svg" width="100%">
+</picture>
 
-**Software Engineer · AI Engineering**<br>
-Islamabad, Pakistan
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-talha--asif-30363d?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-asif-084985248)
-[![Email](https://img.shields.io/badge/Email-talhaasif487%40gmail.com-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:talhaasif487@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-talha--asif-4F46E5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-asif-084985248)
+[![Email](https://img.shields.io/badge/Email-talhaasif487%40gmail.com-4F46E5?style=flat-square&logo=gmail&logoColor=white)](mailto:talhaasif487@gmail.com)
+![Location](https://img.shields.io/badge/Islamabad,_Pakistan-6E7781?style=flat-square&logo=googlemaps&logoColor=white)
 
 I build practical AI products: LLM applications, RAG pipelines, agentic workflows and computer vision systems, shipped as full-stack software with FastAPI and React.
 
