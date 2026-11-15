@@ -28,7 +28,7 @@ Built full-stack features and REST APIs for “Digital Eye” (FBR) with FastAPI
 Personalized workout and diet plans, food calorie detection from photos (ResNet, MobileNet), real-time posture tracking and a bilingual English/Urdu RAG assistant. Built and deployed end to end.<br>
 <sub>FastAPI · React · PostgreSQL · PyTorch · scikit-learn · FAISS · MediaPipe · Groq</sub>
 
-**AI Real-Time Canvas** — LLM-driven collaborative canvas<br>
+**[AI Real-Time Canvas](https://github.com/shery-dotcom/AI-Real-Time-Canva)** — LLM-driven collaborative canvas<br>
 Plain-English prompts become shapes on a shared canvas. The model returns a layout plan; the server computes and validates coordinates, then syncs every client over WebSockets.<br>
 <sub>TypeScript · React Konva · NestJS · Socket.io · Groq</sub>
 
