@@ -24,7 +24,7 @@ Built full-stack features and REST APIs for “Digital Eye” (FBR) with FastAPI
 
 ### Selected projects
 
-**[FLEXA](https://github.com/shery-dotcom/FLEXA)** — AI fitness platform<br>
+**FLEXA** — AI fitness platform<br>
 Personalized workout and diet plans, food calorie detection from photos (ResNet, MobileNet), real-time posture tracking and a bilingual English/Urdu RAG assistant. Built and deployed end to end.<br>
 <sub>FastAPI · React · PostgreSQL · PyTorch · scikit-learn · FAISS · MediaPipe · Groq</sub>
 
